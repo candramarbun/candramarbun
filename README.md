@@ -51,7 +51,7 @@ I'm a backend-focused software engineer with over 8 years of experience building
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/candramarbun)  
 - 🌐 Portfolio: _Coming Soon_  
-- 📨 candramarbun@example.com  
+- 📨 candramarbun88@gmail.com  
 
 ---
 _“Keep learning, keep building.”_
