@@ -38,14 +38,6 @@ I'm a backend-focused software engineer with over 8 years of experience building
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=candramarbun&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candramarbun&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Let's Connect!
 
