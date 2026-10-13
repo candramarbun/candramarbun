@@ -15,7 +15,7 @@ I'm a backend-focused software engineer with over 8 years of experience building
 `Spring Boot` `Quarkus` `Echo (Go)` `Gin (Go)`
 
 **Frontend (basic)**  
-`React.js` `Next.js`
+`React.js` `Next.js` `Vue.js`
 
 **Databases**  
 `PostgreSQL` `MySQL` `MongoDB`
