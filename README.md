@@ -42,7 +42,7 @@ I'm a backend-focused software engineer with over 8 years of experience building
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/candramarbun)  
-- 🌐 Portfolio: _Coming Soon_  
+- 🌐 Portfolio: https://www.lokadigilab.com
 - 📨 candramarbun88@gmail.com  
 
 ---
